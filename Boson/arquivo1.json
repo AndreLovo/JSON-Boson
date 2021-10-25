@@ -1,0 +1,12 @@
+# Sintaxe basica json
+{
+"chave": "string",
+"chave": 12,
+"chave":[
+"string",21.50,"sting"
+],
+"chave":true
+"chave":{
+  "chave":"valor"
+ }
+}
